@@ -3,48 +3,33 @@
 ## 1. Demonstrar os Materiais e Técnicas para Construção de um Aeromodelo
 
 **Materiais Comuns:**
-- Madeira balsa: Leve e fácil de cortar, ideal para a estrutura.
-- Papel japonês: Usado para revestir as asas e fuselagem, dando acabamento leve e aerodinâmico.
-- Cola de madeira ou cola branca: Para unir as peças de madeira.
-- Borrachas de elástico: Para modelos movidos a elástico.
-- Arame fino: Para reforço estrutural e construção de trem de pouso.
-- Ferramentas: Tesoura, estilete, régua, lixa, alicate.
+- **Madeira balsa**: Leve e fácil de cortar, ideal para a estrutura.
+- **Papel japonês**: Usado para revestir as asas e fuselagem, dando acabamento leve e aerodinâmico.
+- **Cola de madeira ou cola branca**: Para unir as peças de madeira.
+- **Borrachas de elástico**: Para modelos movidos a elástico.
+- **Arame fino**: Para reforço estrutural e construção de trem de pouso.
+- **Ferramentas**: Tesoura, estilete, régua, lixa, alicate.
 
 **Técnicas Utilizadas:**
-1. Desenho do Projeto:
-   - Desenhar o aeromodelo em papel milimetrado.
-   - Incluir todas as partes: fuselagem, asas, estabilizador vertical e horizontal.
-   - Exemplo de Desenho: [Model Aviation]([https://www.modelaviation.com/](https://ethridge207.wordpress.com/2015/09/16/build-diy-free-balsa-wood-rc-plane-plans-pdf-plans-wooden-diy-storage-platform-bed-plans/))
+1. **Desenho do Projeto:**
+   - Desenhar o aeromodelo em papel milimetrado, incluindo todas as partes: fuselagem, asas, estabilizador vertical e horizontal.
 
-2. Corte das Peças:
+2. **Corte das Peças:**
    - Transferir os desenhos para a madeira balsa.
    - Cortar as peças com estilete e régua, seguindo as linhas desenhadas.
 
-3. Montagem:
+3. **Montagem:**
    - Montar a fuselagem unindo as peças com cola de madeira.
    - Adicionar as asas, estabilizadores e outros componentes estruturais.
    - Usar lixa para ajustar e suavizar as conexões.
 
-4. Revestimento:
+4. **Revestimento:**
    - Cobrir a estrutura com papel japonês.
    - Aplicar cola diluída (1 parte de cola para 3 partes de água) sobre o papel para enrijecer e dar acabamento.
 
-5. Balanceamento:
+5. **Balanceamento:**
    - Ajustar o centro de gravidade adicionando pequenos pesos conforme necessário.
    - Testar o modelo lançando-o à mão para verificar o equilíbrio e ajustar conforme necessário.
-**Passos:**
-1. Escolha do Modelo:
-   - Selecionar um modelo de avião de papel.
-   - Obter as instruções de dobradura (existem muitos modelos disponíveis online).
-   - Exemplo de Dobradura de Avião: [Dobradura de Avião](https://www.foldnfly.com/)
-
-2. Dobradura:
-   - Dobrar o papel conforme as instruções, garantindo precisão nos vincos.
-   - Certificar-se de que todas as dobras estejam bem marcadas e precisas.
-
-3. Teste de Voo:
-   - Realizar lançamentos de teste.
-   - Ajustar a dobradura conforme necessário para melhorar o desempenho de voo.
      
 ## 2. Construir um Planador Lançado à Mão
 
