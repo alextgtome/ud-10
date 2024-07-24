@@ -3,98 +3,115 @@
 #### Introdução
 Bem-vindo à cartilha de orientação para a Especialidade de Aeromodelismo. Aqui, você encontrará informações, dicas e instruções para conquistar todos os itens necessários para a obtenção desta especialidade. Aeromodelismo é uma atividade fascinante que combina a paixão pela aviação com habilidades práticas de construção e controle de modelos de aeronaves.
 
-#### Item 1: História do Aeromodelismo
-- **Objetivo:** Conhecer a história do aeromodelismo.
-- **Dica:** Pesquise sobre os primeiros modelos de aeromodelos e suas evoluções. Descubra como a tecnologia mudou o aeromodelismo ao longo dos anos.
-- **Instruções:**
-  1. Acesse enciclopédias e outros recursos históricos sobre aviação para entender como surgiu o aeromodelismo.
-  2. Faça anotações sobre os principais marcos, como o primeiro aeromodelo a ser construído e as inovações tecnológicas ao longo do tempo.
-  3. Crie uma linha do tempo usando papel ou ferramentas digitais destacando os eventos mais importantes.
-- **Atividade:** Faça uma linha do tempo destacando os principais marcos na história do aeromodelismo.
+---
 
-#### Item 2: Tipos de Aeromodelos
-- **Objetivo:** Identificar e descrever diferentes tipos de aeromodelos (planadores, aviões a motor, helicópteros, drones, etc.).
-- **Dica:** Visite lojas de hobby e sites especializados para ver exemplos dos diferentes tipos de aeromodelos.
+### 1. Demonstrar quais os materiais empregados na construção de 1 (um) aeromodelo e como deve ser a técnica utilizada
+- **Objetivo:** Identificar os materiais necessários e as técnicas utilizadas na construção de um aeromodelo.
+- **Dica:** Pesquise diferentes materiais utilizados em aeromodelismo e como cada um contribui para o desempenho do modelo.
 - **Instruções:**
-  1. Pesquise sobre os diferentes tipos de aeromodelos: planadores, aviões a motor, helicópteros, drones, etc.
-  2. Faça uma lista com as características principais de cada tipo de aeromodelo.
-  3. Crie uma apresentação ou um cartaz ilustrando os diferentes tipos de aeromodelos e suas características.
-- **Atividade:** Prepare uma apresentação ou um cartaz ilustrando os diferentes tipos de aeromodelos e suas características.
+  1. Faça uma lista dos materiais comuns na construção de aeromodelos, como madeira balsa, plástico, EPS, papel, etc.
+  2. Descreva as técnicas básicas de construção, como corte, colagem e montagem.
+  3. Monte um pequeno aeromodelo utilizando os materiais listados e documente cada etapa do processo.
+- **Atividade:** Construa um aeromodelo básico e documente cada etapa da construção, incluindo fotos e anotações.
 
-#### Item 3: Componentes de um Aeromodelo
-- **Objetivo:** Conhecer os componentes básicos de um aeromodelo (fuselagem, asas, motor, hélices, etc.).
-- **Dica:** Utilize diagramas e modelos em 3D para entender a função de cada componente.
+### 2. Construir 1 (um) planador lançado à mão que voe pelo menos 5 (cinco) segundos, na melhor de 3 (três) tentativas
+- **Objetivo:** Construir um planador simples e aprender os princípios básicos de voo.
+- **Dica:** Utilize materiais leves como papel ou madeira balsa para construir o planador.
 - **Instruções:**
-  1. Estude os diagramas de diferentes aeromodelos para identificar seus componentes básicos.
-  2. Pesquise a função de cada componente e como ele contribui para o voo do aeromodelo.
-  3. Monte um aeromodelo simples e identifique cada componente durante a montagem.
-- **Atividade:** Monte um aeromodelo simples e identifique cada componente.
+  1. Pesquise planos de construção de planadores lançados à mão.
+  2. Construa o planador seguindo as instruções e utilizando os materiais adequados.
+  3. Teste o planador e ajuste conforme necessário para melhorar o tempo de voo.
+- **Atividade:** Construa um planador lançado à mão e registre os resultados das tentativas de voo, incluindo ajustes feitos para melhorar o desempenho.
 
-#### Item 4: Segurança no Aeromodelismo
-- **Objetivo:** Compreender as regras de segurança ao praticar aeromodelismo.
-- **Dica:** Estude as regulamentações locais sobre a prática do aeromodelismo e as diretrizes de segurança da Aeronáutica.
+### 3. Construir 1 (um) planador lançado a cabo (no máximo cinquenta metros) que voe pelo menos quinze segundos, na melhor de 3 (três) tentativas
+- **Objetivo:** Construir um planador que pode ser lançado a cabo e aprender técnicas avançadas de construção e ajuste de voo.
+- **Dica:** Utilize materiais resistentes e leves e siga planos de construção específicos para planadores de lançamento a cabo.
 - **Instruções:**
-  1. Pesquise sobre as normas de segurança específicas para o aeromodelismo na sua região.
-  2. Crie um checklist de segurança que você deve seguir antes, durante e após o voo do seu aeromodelo.
-  3. Participe de um curso ou workshop sobre segurança no aeromodelismo, se possível.
-- **Atividade:** Crie um manual de segurança para aeromodelismo e compartilhe com seus colegas.
+  1. Pesquise planos de construção para planadores de lançamento a cabo.
+  2. Construa o planador utilizando os materiais indicados e seguindo as instruções detalhadas.
+  3. Realize testes de voo, ajustando o planador conforme necessário para alcançar o tempo de voo desejado.
+- **Atividade:** Construa e teste um planador lançado a cabo, documentando cada tentativa de voo e os ajustes realizados.
 
-#### Item 5: Construção de Aeromodelos
-- **Objetivo:** Aprender técnicas básicas de construção de aeromodelos.
-- **Dica:** Comece com kits simples que vêm com instruções detalhadas.
+### 4. Construir 1 (um) modelo a elástico que voe pelo menos 7 (sete) segundos, na melhor de 3 (três) tentativas
+- **Objetivo:** Construir um modelo a elástico e entender como a energia armazenada pode ser usada para propulsionar um aeromodelo.
+- **Dica:** Utilize um elástico de qualidade e construa um modelo leve e bem balanceado.
 - **Instruções:**
-  1. Escolha um kit de construção de aeromodelo adequado para iniciantes.
-  2. Siga as instruções passo a passo, prestando atenção aos detalhes e aprendendo sobre os materiais utilizados.
-  3. Documente cada etapa da construção, tirando fotos e fazendo anotações sobre o processo.
-  4. Pesquise plantas e kits de construção disponíveis no mercado para escolher o que mais lhe interessa.
-  5. Compile as opções de kits e plantas para que o grupo possa escolher qual construir.
-- **Atividade:** Construa um aeromodelo básico e faça um diário de construção documentando cada etapa. Inclua imagens e anexos relevantes.
+  1. Pesquise modelos a elástico e escolha um plano de construção adequado.
+  2. Construa o modelo seguindo as instruções, prestando atenção à tensão do elástico e ao balanceamento do aeromodelo.
+  3. Teste o modelo e faça ajustes para otimizar o tempo de voo.
+- **Atividade:** Construa um modelo a elástico e documente os testes de voo, incluindo ajustes feitos para melhorar o desempenho.
 
-#### Item 6: Controle Remoto
-- **Objetivo:** Entender como funcionam os controles remotos utilizados no aeromodelismo.
-- **Dica:** Estude os diferentes tipos de controles remotos (analógicos e digitais) e como eles se comunicam com o aeromodelo.
+### 5. Operar 1 (um) modelo U-Control (Vôo circular) ou R- Control (rádio controlado) com segurança e precisão
+- **Objetivo:** Aprender a operar modelos U-Control ou R-Control com segurança e precisão.
+- **Dica:** Pratique em simuladores de voo ou com modelos de treino antes de operar modelos mais avançados.
 - **Instruções:**
-  1. Pesquise sobre os diferentes tipos de controles remotos usados no aeromodelismo.
-  2. Pratique o uso de um controle remoto em um simulador de voo antes de operar um aeromodelo real.
-  3. Entenda as funções básicas de um controle remoto e como ajustar as configurações para diferentes condições de voo.
-  4. Explore eventos e competições onde você pode ver demonstrações de controle remoto em ação.
-- **Atividade:** Pratique o uso de um controle remoto em um simulador de voo antes de operar um aeromodelo real.
+  1. Pesquise sobre os controles e técnicas de operação de modelos U-Control e R-Control.
+  2. Pratique em simuladores de voo ou com modelos de treino para ganhar confiança.
+  3. Operar o modelo em um local seguro, seguindo todas as normas de segurança.
+- **Atividade:** Realize sessões de prática com modelos U-Control ou R-Control e documente o progresso e os aprendizados.
 
-#### Item 7: Aerodinâmica Básica
-- **Objetivo:** Conhecer os princípios básicos de aerodinâmica aplicados ao aeromodelismo.
-- **Dica:** Estude conceitos como sustentação, arrasto, empuxo e peso.
+### 6. Ter participado de pelo menos 1 (um) torneio de aeromodelismo, com atuação destacada
+- **Objetivo:** Participar de um torneio de aeromodelismo e se destacar na competição.
+- **Dica:** Treine bastante e participe de eventos locais para ganhar experiência.
 - **Instruções:**
-  1. Pesquise os princípios básicos de aerodinâmica, focando em como eles se aplicam aos aeromodelos.
-  2. Realize experimentos simples para observar os efeitos da aerodinâmica, como construir um planador de papel e ajustá-lo para melhorar o voo.
-  3. Compare os resultados dos seus experimentos e analise como diferentes fatores influenciam o voo.
-- **Atividade:** Realize experimentos simples para observar os efeitos da aerodinâmica, como construir um planador de papel e ajustá-lo para melhorar o voo.
+  1. Pesquise torneios de aeromodelismo próximos e inscreva-se em um.
+  2. Prepare seu aeromodelo de acordo com as regras da competição.
+  3. Treine regularmente e peça feedback de aeromodelistas experientes.
+- **Atividade:** Participe de um torneio de aeromodelismo e documente sua experiência e desempenho.
 
-#### Item 8: Motores e Fontes de Energia
-- **Objetivo:** Compreender os diferentes tipos de motores e fontes de energia utilizados em aeromodelos.
-- **Dica:** Pesquise sobre motores a combustão, elétricos, e suas respectivas fontes de energia.
+### 7. Construir 1 (um) avião em dobradura de papel e fazê-lo voar
+- **Objetivo:** Construir um avião de papel que voe bem.
+- **Dica:** Utilize técnicas de dobradura precisas e materiais de papel de boa qualidade.
 - **Instruções:**
-  1. Estude os diferentes tipos de motores usados em aeromodelos e suas características.
-  2. Pesquise as vantagens e desvantagens de cada tipo de motor e fonte de energia.
-  3. Compare o desempenho de aeromodelos com diferentes tipos de motores e documente suas observações.
-  4. Explore kits de motores e fontes de energia disponíveis para escolher o que melhor atende às suas necessidades.
-- **Atividade:** Compare o desempenho de aeromodelos com diferentes tipos de motores e documente suas observações.
+  1. Pesquise diferentes modelos de aviões de papel.
+  2. Escolha um modelo e siga as instruções de dobradura cuidadosamente.
+  3. Teste o avião e ajuste as dobras para melhorar o desempenho de voo.
+- **Atividade:** Construa um avião de papel e documente os testes de voo, incluindo ajustes feitos para melhorar o desempenho.
 
-#### Item 9: Manutenção e Reparos
-- **Objetivo:** Aprender técnicas de manutenção e reparo de aeromodelos.
-- **Dica:** Tenha sempre um kit básico de ferramentas e materiais de reparo à mão.
+### 8. Construir uma pipa, com no mínimo 1 (um) metro de envergadura e elevá-la a uma altura de mais de vinte e 5 (cinco) metros
+- **Objetivo:** Construir e voar uma pipa de grande envergadura.
+- **Dica:** Utilize materiais leves e resistentes e siga planos de construção específicos para pipas grandes.
 - **Instruções:**
-  1. Pesquise as técnicas básicas de manutenção e reparo de aeromodelos.
-  2. Crie uma rotina de manutenção para garantir que seu aeromodelo esteja sempre em boas condições.
-  3. Aprenda a identificar problemas comuns e como solucioná-los, praticando em aeromodelos antigos ou peças de reposição.
-  4. Compile uma lista de materiais e ferramentas necessárias para manutenção e reparo.
-- **Atividade:** Realize manutenções periódicas em seu aeromodelo e aprenda a identificar problemas comuns e como solucioná-los.
+  1. Pesquise planos de construção para pipas de grande envergadura.
+  2. Construa a pipa utilizando os materiais indicados e seguindo as instruções detalhadas.
+  3. Escolha um dia com boas condições de vento e um local seguro para soltar a pipa.
+- **Atividade:** Construa e solte uma pipa, documentando o processo de construção e o voo.
 
-#### Item 10: Participação em Competições
-- **Objetivo:** Participar ou assistir a uma competição de aeromodelismo.
-- **Dica:** Procure eventos locais ou clubes de aeromodelismo que realizem competições.
+### 9. Construir e apresentar uma miniatura de 1 (um) avião ou foguete, importante para a história da aviação, construída de qualquer tipo de material (madeira, papel, metal, EPS, etc.)
+- **Objetivo:** Construir uma miniatura de um avião ou foguete histórico.
+- **Dica:** Pesquise aviões ou foguetes importantes e escolha um que seja viável construir como miniatura.
 - **Instruções:**
-  1. Pesquise competições de aeromodelismo em sua área e os requisitos para participar.
-  2. Prepare-se para participar de uma competição, ajustando seu aeromodelo para as regras específicas do evento.
-  3. Assista a competições para aprender com outros pilotos e entender melhor as estratégias utilizadas.
-  4. Encontre locais seguros para a operação e lançamento de aeronaves, garantindo que você siga todas as normas de segurança.
-- **Atividade:** Prepare-se para participar de uma competição, ajustando seu aeromodelo para as regras específicas do evento.
+  1. Pesquise sobre aviões ou foguetes históricos e escolha um modelo para construir.
+  2. Selecione os materiais adequados para a construção da miniatura.
+  3. Construa a miniatura com atenção aos detalhes e apresente-a, explicando sua importância histórica.
+- **Atividade:** Construa uma miniatura de um avião ou foguete e documente o processo de construção e a apresentação.
+
+### 10. Construir uma réplica em escala de uma aeronave importante para a história, utilizando técnicas de dobradura e colagem de papel
+- **Objetivo:** Construir uma réplica em escala de uma aeronave histórica usando técnicas de dobradura e colagem de papel.
+- **Dica:** Escolha uma aeronave com design simples e siga planos detalhados de construção.
+- **Instruções:**
+  1. Pesquise sobre aeronaves históricas e escolha um modelo para construir.
+  2. Utilize técnicas de dobradura e colagem de papel para construir a réplica.
+  3. Apresente a réplica, destacando sua importância histórica e os desafios enfrentados na construção.
+- **Atividade:** Construa uma réplica em escala de uma aeronave histórica e documente o processo de construção e a apresentação.
+
+### 11. Montar 1 (um) modelo simples que reproduza os principais componentes da estrutura interna das asas, ou da fuselagem, ou da empenagem de uma aeronave de pequeno porte utilizando apenas material reaproveitado
+- **Objetivo:** Construir um modelo simples que reproduza a estrutura interna de uma aeronave utilizando material reaproveitado.
+- **Dica:** Utilize materiais recicláveis como papelão, garrafas plásticas e outros materiais reaproveitados.
+- **Instruções:**
+  1. Pesquise sobre a estrutura interna de aeronaves de pequeno porte.
+  2. Selecione materiais reaproveitados para construir o modelo.
+  3. Monte o modelo reproduzindo os principais componentes da estrutura interna escolhida.
+- **Atividade:** Construa um modelo simples da estrutura interna de uma aeronave e documente o processo de construção.
+  
+### 12. Projetar e construir, com o auxílio da matilha/patrulha, 1 (um) modelo de aeronave utilizando unicamente as técnicas de construção com nós e amarras, contendo fuselagem, asas, empenagem, manche e pedais, tamanho suficiente para ser carregado pela matilha/patrulha alojando em seu interior 1 (um) piloto
+- **Objetivo:** Objetivo: Projetar e construir um modelo de aeronave utilizando técnicas de nós e amarras.
+- **Dica:** Trabalhe em equipe para planejar e executar o projeto.
+- **Instruções:**
+  1. Pesquise técnicas de construção com nós e amarras.
+  2. Desenhe um plano detalhado do modelo de aeronave a ser construído.
+  3. Com a ajuda da matilha/patrulha, construa o modelo utilizando as técnicas de nós e amarras.
+- **Atividade:** Construa um modelo de aeronave com técnicas de nós e amarras e documente o processo de construção em equipe.
+
+###Conclusão
+Seguindo estas orientações e se dedicando à prática do aeromodelismo, você estará no caminho certo para conquistar a Especialidade de Aeromodelismo. Lembre-se de sempre seguir as regras de segurança e buscar aprimorar suas habilidades constantemente. Boa sorte e bons voos!
