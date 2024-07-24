@@ -14,7 +14,7 @@
 1. Desenho do Projeto:
    - Desenhar o aeromodelo em papel milimetrado.
    - Incluir todas as partes: fuselagem, asas, estabilizador vertical e horizontal.
-   - Exemplo de Desenho: [Model Aviation](https://www.modelaviation.com/)
+   - Exemplo de Desenho: [Model Aviation]([https://www.modelaviation.com/](https://ethridge207.wordpress.com/2015/09/16/build-diy-free-balsa-wood-rc-plane-plans-pdf-plans-wooden-diy-storage-platform-bed-plans/))
 
 2. Corte das Peças:
    - Transferir os desenhos para a madeira balsa.
@@ -32,22 +32,50 @@
 5. Balanceamento:
    - Ajustar o centro de gravidade adicionando pequenos pesos conforme necessário.
    - Testar o modelo lançando-o à mão para verificar o equilíbrio e ajustar conforme necessário.
+**Passos:**
+1. Escolha do Modelo:
+   - Selecionar um modelo de avião de papel.
+   - Obter as instruções de dobradura (existem muitos modelos disponíveis online).
+   - Exemplo de Dobradura de Avião: [Dobradura de Avião](https://www.foldnfly.com/)
 
+2. Dobradura:
+   - Dobrar o papel conforme as instruções, garantindo precisão nos vincos.
+   - Certificar-se de que todas as dobras estejam bem marcadas e precisas.
+
+3. Teste de Voo:
+   - Realizar lançamentos de teste.
+   - Ajustar a dobradura conforme necessário para melhorar o desempenho de voo.
+     
 ## 2. Construir um Planador Lançado à Mão
 
 **Passos:**
-1. Projeto e Corte:
-   - Desenhar um planador simples em papel milimetrado.
-   - Exemplo de Planador: [Model Aviation](https://www.modelaviation.com/)
-   - Cortar a fuselagem, asas e estabilizadores de madeira balsa.
 
-2. Montagem:
-   - Colar as asas à fuselagem garantindo que fiquem simétricas.
-   - Adicionar os estabilizadores na parte traseira da fuselagem.
+1. **Materiais:**
+   - Papel cartão ou papel resistente.
+   - Tesoura.
+   - Régua.
+   - Lápis.
+   - Cola branca.
 
-3. Teste de Voo:
+2. **Desenho e Corte das Peças:**
+   - Desenhar as partes do planador no papel, incluindo a fuselagem, asas e estabilizadores.
+   - As asas devem ser longas e finas para proporcionar melhor sustentação.
+   - Cortar as peças desenhadas com precisão.
+
+3. **Montagem:**
+   - Dobrar a fuselagem ao meio ao longo da linha central para garantir simetria.
+   - Colar as asas na parte superior da fuselagem, garantindo que estejam bem alinhadas e centradas.
+   - Fixar os estabilizadores na parte traseira da fuselagem, certificando-se de que estejam simétricos.
+
+4. **Teste de Voo:**
    - Lançar o planador manualmente, ajustando a inclinação das asas e estabilizadores para um voo estável.
-   - Realizar testes e ajustes até que o planador consiga voar pelo menos 5 segundos.
+   - Realizar testes de voo e fazer ajustes conforme necessário para melhorar o desempenho.
+
+5. **Ajustes Finais:**
+   - Se o planador puxa para um lado, ajustar a inclinação das asas ou a posição dos estabilizadores.
+   - Se o planador não voar bem, verificar o equilíbrio e adicionar pequenos pesos na frente ou na traseira conforme necessário.
+
+Para instruções detalhadas e exemplos de construção, você pode consultar o guia completo [neste link](https://www.instructables.com/How-to-Make-a-Glider/](https://www.instructables.com/DIY-Glider/).
 
 ## 3. Construir um Planador Lançado a Cabo
 
@@ -55,7 +83,6 @@
 1. Projeto e Construção:
    - Seguir o mesmo processo do planador lançado à mão.
    - Reforçar a estrutura para suportar o lançamento a cabo.
-   - Exemplo de Planador com Cabo: [Instructables](https://www.instructables.com/Catapult-Launch-Glider/)
 
 2. Lançamento a Cabo:
    - Fixar um cabo elástico ao planador e ao solo.
@@ -68,17 +95,47 @@
 ## 4. Construir um Modelo a Elástico
 
 **Passos:**
-1. Estrutura e Propulsão:
-   - Construir a estrutura básica do avião com madeira balsa.
-   - Instalar uma hélice de plástico conectada a um elástico que servirá de propulsor.
-   - Exemplo de Modelo a Elástico: [Instructables](https://www.instructables.com/Rubber-Band-Airplane/)
 
-2. Enrolamento e Lançamento:
-   - Enrolar o elástico várias vezes para fornecer a energia necessária à hélice.
-   - Soltar o modelo para voo e ajustar conforme necessário.
+1. **Materiais:**
+   - Madeira balsa: Leve e fácil de cortar, ideal para a estrutura.
+   - Hélice de plástico com suporte.
+   - Elástico de borracha.
+   - Cola branca ou cola de madeira.
+   - Tesoura e estilete.
+   - Régua.
+   - Lixa fina.
+   - Papel de seda ou plástico leve para revestimento das asas.
+   - Clips de papel e alfinetes para fixação temporária.
 
-3. Ajustes e Testes:
-   - Realizar vários testes de voo, ajustando a estrutura e balanceamento para alcançar pelo menos 7 segundos de voo.
+2. **Desenho e Corte das Peças:**
+   - Desenhar o modelo do avião em papel, incluindo fuselagem, asas e estabilizador.
+   - Transferir os desenhos para a madeira balsa.
+   - Cortar as peças com estilete e régua, seguindo as linhas desenhadas.
+
+3. **Montagem da Estrutura:**
+   - Montar a fuselagem unindo as peças com cola de madeira.
+   - Fixar as asas na fuselagem, garantindo que estejam simétricas e alinhadas.
+   - Adicionar o estabilizador na parte traseira da fuselagem.
+
+4. **Revestimento das Asas:**
+   - Cobrir as asas com papel de seda ou plástico leve, fixando com cola.
+   - Certificar-se de que o revestimento esteja esticado e sem rugas.
+
+5. **Instalação do Elástico:**
+   - Conectar a hélice ao suporte de modo que possa girar livremente.
+   - Prender o elástico de borracha na hélice e estendê-lo ao longo da fuselagem.
+   - Fixar o elástico na parte traseira da fuselagem, garantindo que fique esticado.
+
+6. **Finalização:**
+   - Lixar todas as arestas para suavizar e remover imperfeições.
+   - Verificar o alinhamento e a fixação de todas as peças.
+
+7. **Teste e Ajustes:**
+   - Enrolar o elástico girando a hélice várias vezes para fornecer energia.
+   - Soltar o modelo para voo e observar o desempenho.
+   - Realizar ajustes no alinhamento das asas e na tensão do elástico conforme necessário para melhorar a estabilidade e a duração do voo.
+
+Para mais detalhes e instruções específicas, você pode consultar o guia completo [neste link](https://webstorage.cienciaviva.pt/public/pt.cienciaviva.io/recursos/files/elastic_band_airplane_12452573865e8f.pdf).
 
 ## 5. Operar um Modelo U-Control ou R-Control
 
@@ -86,8 +143,7 @@
 1. Treinamento e Segurança:
    - Participar de sessões de treinamento com um instrutor experiente.
    - Aprender os controles básicos e procedimentos de segurança.
-   - Exemplo de Operação R-Control: [YouTube](https://www.youtube.com/)
-
+     
 2. Operação Básica:
    - Praticar manobras básicas, como decolagem, voo em círculos e pouso.
    - Gradualmente avançar para manobras mais complexas conforme ganha confiança.
@@ -148,7 +204,7 @@
 1. Pesquisa e Projeto:
    - Pesquisar um avião ou foguete histórico.
    - Criar um projeto detalhado da miniatura.
-   - Exemplo de Miniatura: [Instructables](https://www.instructables.com/How-to-Build-a-Balsa-Wood-Model-Airplane/)
+   - Exemplo de Miniatura: [Instructables]([https://www.instructables.com/How-to-Build-a-Balsa-Wood-Model-Airplane/](https://historicaviation.com/models-kits/models/aircraft-models/))
 
 2. Construção:
    - Utilizar os materiais escolhidos para construir a miniatura.
@@ -164,7 +220,6 @@
 1. Pesquisa e Desenho:
    - Pesquisar a estrutura interna de uma aeronave pequena.
    - Desenhar um modelo simples destacando componentes principais.
-   - Exemplo de Estrutura Interna: [Instructables](https://www.instructables.com/Basic-Model-Airplane-Construction/)
 
 2. Material Reaproveitado:
    - Coletar materiais reaproveitados, como palitos de picolé, papelão e arames.
@@ -178,7 +233,7 @@
 **Passos:**
 1. Projeto e Planejamento:
    - Desenvolver um projeto de uma aeronave usando técnicas de construção com nós e amarras.
-   - Guia de Nós e Amarras: [Escoteiros](https://www.escoteiros.org.br/knots/)
+   - Guia de Nós e Amarras: [Escoteiros](https://www.escoteiros.org.br/knots/](https://www.gesa56sp.com.br/downloads/ManualNosEAmarras.pdf)
 
 2. Construção em Grupo:
    - Dividir as tarefas entre a matilha/patrulha.
